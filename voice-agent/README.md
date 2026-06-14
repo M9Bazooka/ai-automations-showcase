@@ -2,9 +2,9 @@
 
 # Prawn — AI Voice Agent for Restaurant Call Handling
 
-**An AI phone agent that answers a real restaurant's calls, runs its entire reservation lifecycle, and answers any menu question — in natural, low-latency conversational speech, with zero human involvement.**
+**An AI phone agent that handles a restaurant's calls, runs the entire reservation lifecycle, and answers any menu question — in natural, low-latency conversational speech, with no human in the loop.**
 
-🔴 **Live** — currently answering real inbound calls for Shrimp & Co, a seafood restaurant in London, UK.
+✅ **Built and working end-to-end** — a complete AI phone agent for Shrimp & Co, a seafood restaurant. The full call → availability → booking → SMS-confirmation flow runs through real phone calls.
 
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/GPT--4.1-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -180,7 +180,7 @@ Rather than bolting "remember the customer" on as an afterthought, the caller's 
 
 ## Results / Impact
 
-**Status: in production**, currently answering live inbound calls for Shrimp & Co.
+**Status: built and working.** The complete flow — inbound call → availability check → booking → SMS confirmation, plus full menu Q&A — runs end-to-end on real phone calls, with no human in the loop.
 
 <!-- Add real metrics here once you have a few weeks of call data, e.g.:
 - Calls handled per week: __

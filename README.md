@@ -16,7 +16,7 @@
 
 I'm **Mohammed Waliuddin** — an MSc Artificial Intelligence student at **Aston University** and the builder behind **Aether AI**, where I design and ship production AI automations for real businesses.
 
-I don't build demos. The systems in this portfolio handle live phone calls, produce and publish real content, and run on schedules without anyone watching them. Each one is a complete pipeline — conversation design, API orchestration, generative-media generation, error handling, compliance, and the data layer — built solo, end to end.
+These aren't demos — they're complete, working systems I've built end to end: a phone agent that runs a full reservation flow, a pipeline that produces finished videos, and a publisher that ships to two platforms. Each one is a full build — conversation design, API orchestration, generative-media generation, error handling, compliance, and the data layer — done solo.
 
 This repository is a **showcase**: architecture, design decisions, and the engineering reasoning behind each system. It deliberately contains **no source code, credentials, or client data** — the goal is to show *how the pieces fit together*, not to hand over the implementation.
 
@@ -26,7 +26,7 @@ This repository is a **showcase**: architecture, design decisions, and the engin
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| **[🎙️ Voice Agent — "Prawn"](voice-agent/)** | An AI phone agent that answers a real restaurant's calls, runs the full reservation lifecycle, and answers any menu question — in natural, low-latency speech. | Twilio · GPT-4.1-mini · ElevenLabs · n8n · Google Sheets · LangChain | 🟢 **Live in production** |
+| **[🎙️ Voice Agent — "Prawn"](voice-agent/)** | An AI phone agent that handles a restaurant's calls, runs the full reservation lifecycle, and answers any menu question — in natural, low-latency speech. | Twilio · GPT-4.1-mini · ElevenLabs · n8n · Google Sheets · LangChain | ✅ **Built & working** |
 | **[🎬 YouTube Automation — "YT Master Orchestrator"](youtube-automation/)** | An end-to-end pipeline that researches a trending topic, writes a documentary script, generates voiceover/music/SFX/images/AI video, assembles a 1080p film, and schedules it to YouTube. | n8n · Claude · ElevenLabs · fal.ai (Flux + Kling) · FFmpeg · YouTube Data API | 🟡 **Built — in development** |
 | **[📌 Social Media Automation — "Beauty Affiliate Pipeline"](social-media-automation/)** | A scheduled content factory that turns one spreadsheet row into an AI-written, AI-generated vertical video and publishes it as both a Pinterest pin and an Instagram Reel — with built-in affiliate compliance. | n8n · Claude (Fable 5 + Sonnet) · Higgsfield · Pinterest API · Instagram Graph API · Google Sheets | 🟡 **Built — awaiting activation** |
 
