@@ -4,7 +4,7 @@ This folder is referenced from the README but intentionally ships without images
 
 Suggested shots, roughly in order of impact:
 
-1. **`orchestrator-canvas.png` — the master orchestrator node graph**
+1. ✅ **`orchestrator-canvas.png` — the master orchestrator node graph** *(captured — now embedded at the top of the README)*
    A zoomed-out screenshot of the YT Master Orchestrator in the n8n editor, showing the overall shape: 3 triggers → merge → the 8 sequential `executeWorkflow` stages → the error rail. This instantly communicates "real, structured system" without revealing any node contents.
 
 2. **`finished-video.png` — a frame from a generated video**

@@ -14,6 +14,10 @@
 
 > 🟡 **Status: built and deployed, awaiting activation** (credential wiring + Sheet ID / IG User ID). A 67-node single-workflow pipeline. Documented as-built.
 
+![The Beauty Affiliate Pipeline workflow in n8n](screenshots/workflow-canvas.png)
+
+*The full 67-node pipeline. The colored sticky notes document each stage in-canvas — pipeline overview, schedule configuration, API setup, and rate-limit safety — and the run flows left-to-right: select row → AI content → generate image → generate video → approval → parallel Pinterest + Instagram posting.*
+
 ---
 
 ## The Problem

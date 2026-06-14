@@ -14,6 +14,10 @@
 
 > 🟡 **Status: built, in development.** Core logic is wired end-to-end across a master orchestrator and 8 specialized sub-workflows (~185 nodes total). The final-stage links and a notification step are mid-wiring — see [Honest Status](#-honest-status) below. Documented as-built, not as-aspirational.
 
+![The YT Master Orchestrator workflow in n8n](screenshots/orchestrator-canvas.png)
+
+*The master orchestrator: three triggers (cron / manual / webhook) merge into a single linear pipeline that drives all 8 sub-workflow stages, with each stage's error output routed down to a single `Handle Error → Discord Notify` rail (bottom-right).*
+
 ---
 
 ## The Problem

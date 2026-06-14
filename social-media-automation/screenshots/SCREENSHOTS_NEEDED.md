@@ -4,7 +4,7 @@ This folder is referenced from the README but intentionally ships without images
 
 Suggested shots, roughly in order of impact:
 
-1. **`workflow-canvas.png` — the full 67-node workflow**
+1. ✅ **`workflow-canvas.png` — the full 67-node workflow** *(captured — now embedded at the top of the README)*
    A zoomed-out screenshot of the whole pipeline in the n8n editor, ideally showing the 6 sticky-note sections (Overview, Sourcing, AI Content, Video, Approval, Platforms) that document it in-canvas. Communicates scope and structure at a glance.
 
 2. **`generated-reel.png` — a frame from a generated video**

@@ -7,7 +7,7 @@ Suggested shots, roughly in order of impact:
 1. **`hero.png` — a recording of a real call** (or a realistic re-creation)
    The single most convincing artifact a voice-agent project can have is *hearing it work*. A 30–60 second Loom/screen recording of an actual call — checking availability, booking a table, getting the SMS confirmation — linked from the top of the README, does more than any amount of written description. If using a real recorded call, make sure the guest's personal details (name, number) are clearly anonymized or it's a call you placed yourself for demo purposes.
 
-2. **`n8n-workflow.png` — the main workflow canvas**
+2. ✅ **`n8n-workflow.png` — the main workflow canvas** *(captured — now embedded at the top of the README)*
    A screenshot of the main conversation workflow's node graph in the n8n editor (zoomed out enough to show the overall shape: webhook → prepare input → agent → tools → TwiML → response). This is a visual that immediately communicates "this is a real, structured system" to a technically literate viewer — and it shows orchestration skill without revealing any node *contents* (system prompts, credentials, business logic). Collapse or blur node parameter panels before capturing.
 
 3. **`execution-trace.png` — a single call's execution trace**

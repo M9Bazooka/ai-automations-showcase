@@ -17,9 +17,12 @@
 
 > Built solo, end-to-end — conversation design, telephony plumbing, agent orchestration, latency tuning, and the data layer.
 
-<!-- Add a Loom recording of a live sample call here, e.g.: -->
+![The Prawn voice agent's main conversation workflow in n8n](screenshots/n8n-workflow.png)
+
+*The main conversation workflow: a single Twilio webhook → Prepare Input → the Prawn AI Agent (with its chat model, call-scoped memory, and seven tools — datetime, menu, and the five reservation operations) → Build TwiML with ElevenLabs → return TwiML. One request in, one response out.*
+
+<!-- Add a Loom recording of a real sample call here once available, e.g.: -->
 <!-- [![Watch the demo](screenshots/hero.png)](https://www.loom.com/share/your-demo-link) -->
-<!-- ![Workflow](screenshots/n8n-workflow.png) -->
 
 ---
 
