@@ -1,4 +1,4 @@
-# AI Automations Portfolio — Mohammed Waliuddin / Aether AI
+# AI Automations Portfolio — Mohammed Waliuddin / Verris
 
 **Production AI agents and automations for real businesses — voice agents, content pipelines, and multi-platform publishing systems that run end-to-end with zero human steps in between.**
 
@@ -14,7 +14,7 @@
 
 ## 👋 About
 
-I'm **Mohammed Waliuddin** — an MSc Artificial Intelligence student at **Aston University** and the builder behind **Aether AI**, where I design and ship production AI automations for real businesses.
+I'm **Mohammed Waliuddin** — an MSc Artificial Intelligence student at **Aston University** and the builder behind **Verris**, where I design and ship production AI automations for real businesses.
 
 These aren't demos — they're complete, working systems I've built end to end: a phone agent that runs a full reservation flow, a pipeline that produces finished videos, and a publisher that ships to two platforms. Each one is a full build — conversation design, API orchestration, generative-media generation, error handling, compliance, and the data layer — done solo.
 
@@ -65,8 +65,8 @@ These are different domains — telephony, video production, social publishing �
 I'm available for freelance and contract work building AI agents and automations for businesses.
 
 - **GitHub:** [@M9Bazooka](https://github.com/M9Bazooka)
-- **Email:** [woven.cookie.1612@gmail.com](mailto:woven.cookie.1612@gmail.com)
-- **Agency:** Aether AI
+- **Email:** [mohd.wali.uddin.2003@gmail.com](mailto:mohd.wali.uddin.2003@gmail.com)
+- **Studio:** Verris
 
 ---
 

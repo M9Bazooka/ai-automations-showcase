@@ -9,7 +9,7 @@ This top-level folder is for visuals that represent the **portfolio as a whole**
 Suggested portfolio-level visuals:
 
 1. **`banner.png` — a portfolio banner / hero image**
-   A clean header graphic for the top of the main README — "Aether AI · AI Automations" with the core logos (n8n, Claude, ElevenLabs, Twilio, fal.ai). Sets a professional first impression before a viewer reads a word.
+   A clean header graphic for the top of the main README — "Verris · AI Automations" with the core logos (n8n, Claude, ElevenLabs, Twilio, fal.ai). Sets a professional first impression before a viewer reads a word.
 
 2. **`stack-collage.png` — a one-image overview of all three systems**
    A 3-panel collage: a phone/voice agent, a YouTube video frame, and a Pinterest/Instagram reel — one glance that says "voice, video, social."

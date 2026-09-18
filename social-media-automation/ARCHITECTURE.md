@@ -169,4 +169,4 @@ Credentials are referenced by exact name (`Anthropic API`, `Google Sheets accoun
 
 ---
 
-*Part of the [Aether AI automations portfolio](../README.md).*
+*Part of the [Verris automations portfolio](../README.md).*

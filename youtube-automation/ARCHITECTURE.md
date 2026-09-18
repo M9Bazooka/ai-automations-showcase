@@ -217,4 +217,4 @@ Every external call injects `$env.*` directly into HTTP headers/bodies — `ANTH
 
 ---
 
-*Part of the [Aether AI automations portfolio](../README.md).*
+*Part of the [Verris automations portfolio](../README.md).*
