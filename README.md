@@ -16,7 +16,7 @@
 
 I'm **Mohammed Waliuddin** — an MSc Artificial Intelligence student at **Aston University** and the builder behind **Verris**, where I design and ship production AI automations for real businesses.
 
-These aren't demos — they're complete, working systems I've built end to end: a phone agent that runs a full reservation flow, a pipeline that produces finished videos, and a publisher that ships to two platforms. Each one is a full build — conversation design, API orchestration, generative-media generation, error handling, compliance, and the data layer — done solo.
+These aren't demos — they're complete, working systems I've built end to end: a phone agent that runs a full reservation flow, a pipeline that produces finished videos, and a publisher that ships to two platforms. Each one is a full build — conversation design, API orchestration, generative-media generation, error handling, compliance, and the data layer — built end to end.
 
 This repository is a **showcase**: architecture, design decisions, and the engineering reasoning behind each system. It deliberately contains **no source code, credentials, or client data** — the goal is to show *how the pieces fit together*, not to hand over the implementation.
 
@@ -70,4 +70,4 @@ I'm available for freelance and contract work building AI agents and automations
 
 ---
 
-*Built by Mohammed Waliuddin — solo design, build, and deployment. Every project here is a real system, not a tutorial.*
+*Built by Mohammed Waliuddin through Verris Technologies — design, build, and deployment. Every project here is a real system, not a tutorial.*

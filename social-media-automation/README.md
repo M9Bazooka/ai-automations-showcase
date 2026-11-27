@@ -179,4 +179,4 @@ Documented **as-built**. The workflow is **inactive on the live instance** (`act
 
 ---
 
-*Built by Mohammed Waliuddin — solo design and build. Part of the [Verris automations portfolio](../README.md).*
+*Built by Mohammed Waliuddin — design and build. Part of the [Verris automations portfolio](../README.md).*

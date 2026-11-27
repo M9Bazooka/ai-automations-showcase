@@ -15,7 +15,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-> Built solo, end-to-end — conversation design, telephony plumbing, agent orchestration, latency tuning, and the data layer.
+> Built end to end — conversation design, telephony plumbing, agent orchestration, latency tuning, and the data layer.
 
 ![The Prawn voice agent's main conversation workflow in n8n](screenshots/n8n-workflow.png)
 
@@ -203,4 +203,4 @@ Rather than bolting "remember the customer" on as an afterthought, the caller's 
 
 ---
 
-*Built by Mohammed Waliuddin — solo design, build, and deployment.*
+*Built by Mohammed Waliuddin through Verris Technologies — design, build, and deployment.*

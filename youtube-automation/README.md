@@ -192,4 +192,4 @@ I'd rather show a real, ambitious system with its rough edges labeled than a pol
 
 ---
 
-*Built by Mohammed Waliuddin — solo design and build. Part of the [Verris automations portfolio](../README.md).*
+*Built by Mohammed Waliuddin — design and build. Part of the [Verris automations portfolio](../README.md).*
